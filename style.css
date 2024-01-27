@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    margin: 10px 15px;
+    border: 1.5px solid #000000;
+    font-family: 'Courier New', Courier, monospace;
+}
+#heading01{
+    text-align: center;
+    font-size: 22px;
+    font-weight: 500;
+    padding-top: 20px;
+}
+#heading02{
+    text-align: center;
+    font-size: 26px;
+    font-weight: 550;
+    padding-top: 5px;
+}
+#heading03{
+    text-align: center;
+    font-size: 24px;
+    font-weight: 500;
+    padding-top: 5px;
+    padding-bottom: 35px;
+}
+ul{
+    text-align: center;
+}
+li{
+    text-decoration: none;
+    display: inline;
+    margin-left: 50px;
+    margin-right: 50px;
+    cursor: pointer;
+}
+#pic{
+    margin: 25px 300px;
+    height: 225px;
+}
+p{
+    text-align: center;
+    padding-bottom: 12px;
+}
+#line03{
+    margin-bottom: 25px;
+}
